@@ -1,0 +1,8 @@
+npm install -g yarn
+yarn create vite
+counter-app
+selecciona react
+selecciona javascript
+cd counter-app
+yarn
+yarn dev
