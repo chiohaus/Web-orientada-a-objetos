@@ -15,3 +15,8 @@ VITE v5.0.12  ready in 661 ms
   ➜  Local:   http://localhost:5173/
   ➜  Network: use --host to expose
   ➜  press h + enter to show help
+
+
+
+
+yarn add prop-types
