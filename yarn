@@ -8,8 +8,6 @@ yarn
 yarn dev
 
 
-
-
 VITE v5.0.12  ready in 661 ms
 
   ➜  Local:   http://localhost:5173/
@@ -17,12 +15,9 @@ VITE v5.0.12  ready in 661 ms
   ➜  press h + enter to show help
 
 
-
-
 yarn add prop-types
 
-
-yarn crate vite
+yarn create vite
 gif-expert-app
 selecciona react
 selecciona javascript
@@ -32,4 +27,18 @@ yarn dev
 
 
   http://localhost:5173/
+
+yarn create vite
+sitio-infografia
+selecciona react
+selecciona javascript
+cd sitio-infografia
+yarn
+yarn dev
+
+  VITE v5.1.3  ready in 536 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h + enter to show help
 
